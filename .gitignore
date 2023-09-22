@@ -1,0 +1,15 @@
+__pycache__/
+tests/
+gui_files/
+editor/
+images/
+data/
+assets/
+img/
+*.html
+*.ok_
+ok
+*.bak
+*dat
+*.dir
+*.rst
