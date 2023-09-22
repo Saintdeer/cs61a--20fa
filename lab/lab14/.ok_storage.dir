@@ -1,0 +1,8 @@
+'prune_min-correct', (0, 66)
+'num_splits-correct', (512, 66)
+'CheckingAccount-correct', (1024, 66)
+'align_skeleton-correct', (1536, 66)
+'foldl-correct', (2048, 66)
+'filterl-correct', (2560, 66)
+'reverse-correct', (3072, 66)
+'foldl2-correct', (3584, 66)

@@ -1,0 +1,6 @@
+'ordered_digits-correct', (0, 66)
+'get_k_run_starter-correct', (512, 66)
+'make_repeater-correct', (1024, 66)
+'apply_twice-correct', (1536, 66)
+'church_to_int-correct', (2048, 66)
+'add_church-correct', (2560, 66)
